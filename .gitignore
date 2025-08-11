@@ -1,0 +1,7 @@
+bin/
+obj/
+MyIcon.Iconset/
+Stairs.Iconset/
+*.exe
+*.log
+*.tmp
