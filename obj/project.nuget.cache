@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iYVEY1AqyPA=",
+  "success": true,
+  "projectFilePath": "/Users/m.radwanassil/Development/CSharp/Stairs/Stairs.csproj",
+  "expectedPackageFiles": [
+    "/Users/m.radwanassil/.nuget/packages/raylib-cs/7.0.1/raylib-cs.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
